@@ -4,57 +4,95 @@
 ## SECTIONS
 
 
-### 大家上午好
+### 1. 暖场
 
-[BGM](/BGM/dajiashangwuhao.mp3)
+- [x] 准备
 
-
-### 开场白
-
-[BGM](/BGM/kaichangbai.mp3)
+[BGM](http://music.163.com/song?id=33395054&userid=430356395)
 
 
-### 新郎登场
+### 2. 开场白
 
-[BGM](/BGM/xinlangdengchang.mp3)
+- [x] 准备
 
-
-### 新娘入场
-
-[BGM](/BGM/xinniangruchang.mp3)
+[BGM](http://music.163.com/song?id=5251162&userid=430356395)
 
 
-### 新人讲话
+### 3. 新郎入场
 
-[BGM](/BGM/xinrenjianghua.mp3)
+- [x] 准备
 
-
-### 许下今生不变的承诺
-
-[BGM](/BGM/chengnuo.mp3)
+[BGM](http://music.163.com/song?id=540042&userid=430356395)
 
 
-### 拥吻你美丽的太太，证婚人登场
+### 4. 新娘入场
 
-[BGM](/BGM/yongwen.mp3)
+- [x] 准备
 
-
-### 交杯酒
-
-[BGM](/BGM/jiaobeijiu.mp3)
+[BGM](http://music.163.com/song?id=477458860&userid=430356395)
 
 
-### 共同步入婚礼殿堂
+### 5. 共同入场
 
-[BGM](/BGM/buruhunlidiantang.mp3)
+- [x] 准备
 
-
-### 合影
-
-[BGM](/BGM/heying.mp3)
+[BGM](http://music.163.com/song?id=404610&userid=430356395)
 
 
-### 大合影
+### 6. 誓言
 
-[BGM](/BGM/daheying.mp3)
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=31134621&userid=430356395)
+
+
+### 7. 信物拥吻
+
+- [x] 准备
+
+[BGM1](http://music.163.com/song?id=486862719&userid=430356395)
+
+[BGM2](http://music.163.com/song?id=29803287&userid=430356395)
+
+
+### 8. 代表讲话
+
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=1481646929&userid=430356395)
+
+
+### 9. 红酒封存
+
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=28828076&userid=430356395)
+
+
+### 10. 新人讲话
+
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=29207819&userid=430356395)
+
+
+### 11. 手捧花
+
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=421934070&userid=430356395)
+
+
+### 12. 交杯酒
+
+- [x] 准备
+
+[BGM](http://music.163.com/song?id=28828078&userid=430356395)
+
+
+### 13. 退场合影
+
+- [x] 准备
+
+[BGM](https://music.163.com/#/song?id=5145730&userid=430356395)
 
